@@ -1,4 +1,6 @@
 # CloudSystems
 CloudSystems, is a moderation bot, aimed to help you moderate your community.
 
-You may take this code, edit it, publish it as you wish. All i request, is for you to give me some credit.
+The bot is stable; however there will not be a hosted version, so you will be required to localhost it.
+
+There will be no more updates to the bot; i have lost all motivation for it. Feel free to do what you wish with the current code.
